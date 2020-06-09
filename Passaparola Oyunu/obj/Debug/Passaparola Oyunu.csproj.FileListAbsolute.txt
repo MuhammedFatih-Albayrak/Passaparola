@@ -1,0 +1,10 @@
+C:\Users\MUHAMMED FATİH\Desktop\C#\Passaparola Oyunu\Passaparola Oyunu\bin\Debug\Passaparola Oyunu.exe.config
+C:\Users\MUHAMMED FATİH\Desktop\C#\Passaparola Oyunu\Passaparola Oyunu\bin\Debug\Passaparola Oyunu.exe
+C:\Users\MUHAMMED FATİH\Desktop\C#\Passaparola Oyunu\Passaparola Oyunu\bin\Debug\Passaparola Oyunu.pdb
+C:\Users\MUHAMMED FATİH\Desktop\C#\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.csprojAssemblyReference.cache
+C:\Users\MUHAMMED FATİH\Desktop\C#\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola_Oyunu.Form1.resources
+C:\Users\MUHAMMED FATİH\Desktop\C#\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola_Oyunu.Properties.Resources.resources
+C:\Users\MUHAMMED FATİH\Desktop\C#\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.csproj.GenerateResource.cache
+C:\Users\MUHAMMED FATİH\Desktop\C#\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED FATİH\Desktop\C#\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.exe
+C:\Users\MUHAMMED FATİH\Desktop\C#\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.pdb
